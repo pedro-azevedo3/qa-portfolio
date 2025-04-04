@@ -336,7 +336,7 @@ export default function Home() {
 
             <ProjectCard
               title="Show Me The Bugs"
-              description="Software Testing Tool for quality professionals to assist with test versioning, creation of test cases, test suites, bug reports, and test results. Project still in"
+              description="Software Testing Tool for quality professionals to assist with test versioning, creation of test cases, test suites, bug reports, and test results. Project still in progress"
               tags={["Manual Testing", "Automation Testing", "Cypress", "API Testing", "Front-end Testing"]}
               image="/SMTB.png?height=200&width=400"
             />
